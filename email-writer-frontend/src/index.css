@@ -1,0 +1,15 @@
+/* index.css */
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  background: linear-gradient(135deg, #ffd6d9, #c3cfe2);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  background-attachment: fixed;
+}
+
+* {
+  box-sizing: border-box;
+}
